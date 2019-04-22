@@ -4,8 +4,8 @@ FiveM resource for [Nurburgring-Nordschleife Circuit HQ](https://www.gta5-mods.c
 
 ## Installation
 
-1. Add the NurburgringNordschleife folder to your FiveM resource directory
-2. Edit your server.cfg and add "start NurburgringNordschleife" to the resource list
+1. Add the NurburgringNordschleife folder to your FiveM resources directory
+2. Edit your server.cfg and add "start NurburgringNordschleife"
 
 ## Imgur album
 
